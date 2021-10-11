@@ -1,4 +1,5 @@
-# SteinerAnts
+# Turtle ant trail network design objectives
+## Plos Computational Biology 2021
 
 This repository is for analyzing the design principles guiding the structure of turtle ant trail networks. This code for the paper "Better tired than lost: turtle ant trail networks favor coherence over shortest edges" in Plos Computational Biology (DOI ---).
 
